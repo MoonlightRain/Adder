@@ -11,5 +11,5 @@ void main()
 
 	z = x + y;
 	
-	printf(z, %d);
+	printf("%d", z);
 }
