@@ -10,4 +10,6 @@ void main()
 	scanf("%d", &y);
 
 	z = x + y;
+	
+	printf(z, %d);
 }
